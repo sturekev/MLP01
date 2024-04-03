@@ -1,0 +1,9 @@
+List of commands:
+
+1. setup environment
+
+run: python -m venv venv
+
+2. upgrade pip 
+
+run: python -m pip install --upgrade pip 
